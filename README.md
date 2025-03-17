@@ -1,4 +1,4 @@
-# W25_COMP263_002_Group1
+# W25_COMP263_002_DeepLearning_Group1
 
 ## Group Members
 Ibrahim Adeboye</br>
