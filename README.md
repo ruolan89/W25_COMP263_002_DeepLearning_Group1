@@ -12,7 +12,7 @@ Ruolan Wang</br>
 | Model | Memeber | Memeber |
 |:-------|:--------:|:-------:|
 | Supervised Learning |   Change to your name      |   Change to your name     |
-| Unsupervised Learning |   Renee Vera       |   Change to your name     |
+| Unsupervised Learning |   Renee Vera       |   Ruolan     |
 | State-of-the-art Models |  Change to your name       |  Change to your name      |
 
 ## Dataset Information
