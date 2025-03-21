@@ -11,9 +11,9 @@ Ruolan Wang</br>
 ### Tasks
 | Model | Memeber | Memeber |
 |:-------|:--------:|:-------:|
-| Supervised Learning |         |       |
-| Unsupervised Learning |         |       |
-| State-of-the-art Models |        |       |
+| Supervised Learning |   Change to your name      |   Change to your name     |
+| Unsupervised Learning |   Change to your name       |   Change to your name     |
+| State-of-the-art Models |  Change to your name       |  Change to your name      |
 
 ## Dataset Information
 This project uses the **Mask Dataset** provided by Make ML.
