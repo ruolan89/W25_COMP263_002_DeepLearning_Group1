@@ -25,7 +25,7 @@ This project uses the **Mask Dataset** provided by Make ML.
 
 This dataset contains **853 images** belonging to the **3 classes**, as well as their bounding boxes in the PASCAL VOC format.</br>
 The classes are:</br>
-- With mask;</br>
-- Without mask;</br>
-- Mask worn incorrectly.</br>
+- With mask: _with_mask_;</br>
+- Without mask: _without_mask_;</br>
+- Mask worn incorrectly: _mask_weared_incorrect_.</br>
 </br>
