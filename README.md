@@ -8,6 +8,13 @@ Ricardo Schwarz Costamilan</br>
 Joogui Renee Vera Cardenas</br>
 Ruolan Wang</br>
 
+### Project
+| Model | Memeber | Memeber |
+|:-------|:--------:|:-------:|
+| Supervised Learning |         |       |
+| Unsupervised Learning |         |       |
+| State-of-the-art Models |        |       |
+
 ## Dataset Information
 This project uses the **Mask Dataset** provided by Make ML.
 
