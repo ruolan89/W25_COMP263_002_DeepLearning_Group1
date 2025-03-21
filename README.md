@@ -11,7 +11,7 @@ Ruolan Wang</br>
 ### Tasks
 | Model | Memeber | Memeber |
 |:-------|:--------:|:-------:|
-| Supervised Learning |   Change to your name      |   Change to your name     |
+| Supervised Learning |   JunzeMa      |   Change to your name     |
 | Unsupervised Learning |   Renee Vera       |   Ruolan     |
 | State-of-the-art Models |  Change to your name       |  Change to your name      |
 
