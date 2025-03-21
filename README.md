@@ -8,7 +8,7 @@ Ricardo Schwarz Costamilan</br>
 Joogui Renee Vera Cardenas</br>
 Ruolan Wang</br>
 
-### Project
+### Tasks
 | Model | Memeber | Memeber |
 |:-------|:--------:|:-------:|
 | Supervised Learning |         |       |
