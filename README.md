@@ -13,7 +13,7 @@ Ruolan Wang</br>
 |:-------|:--------:|:-------:|
 | Supervised Learning |   JunzeMa      |   Ibrahim     |
 | Unsupervised Learning |   Renee Vera       |   Ruolan     |
-| State-of-the-art Models |  Ricardo       |  Change to your name      |
+| State-of-the-art Models |  Ricardo       |  Lei      |
 
 ## Dataset Information
 This project uses the **Mask Dataset** provided by Make ML.
