@@ -15,7 +15,6 @@ The classes are:</br>
 - With mask: _with_mask_;</br>
 - Without mask: _without_mask_;</br>
 - Mask worn incorrectly: _mask_weared_incorrect_.</br>
-</br>
 
 ## Group Members
 Ibrahim @IPRIMAL</br>
