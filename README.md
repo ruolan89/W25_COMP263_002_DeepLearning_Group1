@@ -1,19 +1,6 @@
 # W25_COMP263_002_DeepLearning_Group1
 
-## Group Members
-Ibrahim @IPRIMAL</br>
-Lei @githubcen38</br>
-Junze @mazhe12138</br>
-Ricardo @Ricardoonz</br>
-Joogui Renee @reneevera</br>
-Ruolan @ruolan89</br>
-
-### Tasks
-| Model | Memeber | Memeber |
-|:-------|:--------:|:-------:|
-| Supervised Learning |   JunzeMa      |   Ibrahim     |
-| Unsupervised Learning |   Renee Vera       |   Ruolan     |
-| State-of-the-art Models |  Ricardo       |  Lei      |
+## Run code
 
 ## Dataset Information
 This project uses the **Mask Dataset** provided by Make ML.
@@ -29,3 +16,18 @@ The classes are:</br>
 - Without mask: _without_mask_;</br>
 - Mask worn incorrectly: _mask_weared_incorrect_.</br>
 </br>
+
+## Group Members
+Ibrahim @IPRIMAL</br>
+Lei @githubcen38</br>
+Junze @mazhe12138</br>
+Ricardo @Ricardoonz</br>
+Joogui Renee @reneevera</br>
+Ruolan @ruolan89</br>
+
+### Tasks
+| Model | Memeber | Memeber |
+|:-------|:--------:|:-------:|
+| Supervised Learning |   JunzeMa      |   Ibrahim     |
+| Unsupervised Learning |   Renee Vera       |   Ruolan     |
+| State-of-the-art Models |  Ricardo       |  Lei      |
