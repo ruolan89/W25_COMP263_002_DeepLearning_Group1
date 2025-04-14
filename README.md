@@ -1,12 +1,6 @@
 # W25_COMP263_002_DeepLearning_Group1
 
-## Run Code
-
-In this dataset, we already finish the preprocessing. Just need to run model.
-
-- create environment: conda env create -f environment.yml
-- 1. Jupyter notebook: run .ipynb files
-- 2. Spyder: run .py files
+## Run code
 
 ## Dataset Information
 This project uses the **Mask Dataset** provided by Make ML.
@@ -15,21 +9,20 @@ This project uses the **Mask Dataset** provided by Make ML.
 - License: Public Domain
 - Credits: Photo by engin akyurt on Unsplash
 
+
 This dataset contains **853 images** belonging to the **3 classes**, as well as their bounding boxes in the PASCAL VOC format.</br>
 The classes are:</br>
 - With mask: _with_mask_;</br>
 - Without mask: _without_mask_;</br>
 - Mask worn incorrectly: _mask_weared_incorrect_.</br>
-</br>
 
 ## Group Members
-Ibrahim Adeboye</br>
-Lei Cao</br>
-Junze Ma</br>
-Ricardo Schwarz Costamilan</br>
-Joogui Renee Vera Cardenas</br>
-Ruolan Wang</br>
-
+Ibrahim @IPRIMAL</br>
+Lei @githubcen38</br>
+Junze @mazhe12138</br>
+Ricardo @Ricardoonz</br>
+Joogui Renee @reneevera</br>
+Ruolan @ruolan89</br>
 
 ### Tasks
 | Model | Memeber | Memeber |
