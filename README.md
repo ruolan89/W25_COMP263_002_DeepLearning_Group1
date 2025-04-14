@@ -2,6 +2,12 @@
 
 ## Run code
 
+In this dataset, we already finish the preprocessing. Just need to run model.
+
+- create environment: conda env create -f environment.yml
+  1. Jupyter notebook: run .ipynb files
+  2. Spyder: run .py files
+
 ## Dataset Information
 This project uses the **Mask Dataset** provided by Make ML.
 
